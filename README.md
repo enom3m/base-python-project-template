@@ -1,2 +1,2 @@
 # base-python-project-template
-base python project structure
+This simple project is a template for Python projects
